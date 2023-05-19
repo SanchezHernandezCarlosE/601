@@ -5,3 +5,4 @@ DOCENTE: Dr. Hugo Ortiz Quiroga.
 ALUMNO: Sánchez Hernández Carlos Emmanuel.
 
 1. HolaMundo.java
+2. V1TRIFIV.java
